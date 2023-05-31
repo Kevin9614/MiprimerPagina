@@ -36,6 +36,9 @@
     justify-content: center;
     justify-content: space-between;
   }
+  .gracia{
+    text-align: center;
+  }
 
   @media (max-width: 768px) {
     .column {
